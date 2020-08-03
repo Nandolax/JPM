@@ -298,3 +298,4 @@ if __name__ == '__main__':
         print ("No data found, generating...")
         generate_csv()
     run(App())
+    git show> patch.txt
